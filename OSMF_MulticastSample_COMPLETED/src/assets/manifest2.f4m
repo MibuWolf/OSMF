@@ -1,0 +1,6 @@
+<manifest xmlns="http://ns.adobe.com/f4m/1.0">
+  <id>Multicast_Fusion</id>
+  <streamType>live</streamType>
+  <duration>0</duration>
+  <media url="rtmfp://localhost/multicast" groupspec="G:01012105f8cd3b377cf93646b30b07f29cf917d68d63c26ac60af46f0563829280d48fc5010c160e666d732e6d756c7469636173742e6578616d706c65011b00070ae00000fe7530" multicastStreamName="re"/>
+</manifest>
